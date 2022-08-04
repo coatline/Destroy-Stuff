@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ce189eac5040be54c8c3e5743f53298d
+timeCreated: 1516919000
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannonBall: {fileID: 54806180904546698, guid: 1adff077041bdef41800d91cc0eaf9cc,
+      type: 2}
+  - ironBall: {fileID: 54832265042406440, guid: 2b6a9463694d637478dbaf05664c89d0,
+      type: 2}
+  - dart: {fileID: 54016343085009930, guid: 3337c2f5e6c7a6444a9e10499327fb31, type: 2}
+  - bomb: {fileID: 54780825843477728, guid: df6a51d9702046147addfe31ae6c1149, type: 2}
+  - where: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
